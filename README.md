@@ -29,4 +29,4 @@ nosetests
 
 # Demo
 
-Coming Soon
+https://redditfeed.foobar.network/api/v1/top_articles/<subreddit>
