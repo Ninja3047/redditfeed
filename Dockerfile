@@ -12,4 +12,4 @@ COPY redditfeed.py /redditfeed
 
 EXPOSE 5000
 
-ENTRYPOINT ["python3", "redditfeed.py"]
+ENTRYPOINT ["/usr/bin/gunicorn", "-w 4", "-b 0.0.0.0:5000", "redditfeed:app"]
