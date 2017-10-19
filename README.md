@@ -38,4 +38,4 @@ http://127.0.0.1/api/v1/top_articles/<subreddit>
 
 # Demo
 
-https://redditfeed.foobar.network/api/v1/top_articles/[subreddit]
+https://redditfeed.foobar.network/api/v1/top_articles/news
