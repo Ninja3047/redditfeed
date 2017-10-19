@@ -16,7 +16,7 @@ receives.
 2. Clone this repository
 3. Run `docker-compose up`
 4. You should now be able to query the API locally
-5. You can optionall set up an nginx reverse proxy to forward the requests
+5. You can optionally set up an NGINX reverse proxy to forward the requests
    to the correct port
 
 # Example Usage
